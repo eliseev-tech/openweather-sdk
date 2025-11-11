@@ -1,0 +1,6 @@
+openweather:
+  api-key: YOUR_KEY
+  mode: POLLING            # ON_DEMAND | POLLING
+  units: metric            # standard | metric | imperial
+  lang: ru
+  polling-ms: 60000        # период фонового опроса в мс (для POLLING)
